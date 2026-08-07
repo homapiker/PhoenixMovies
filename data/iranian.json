@@ -4,7 +4,7 @@
     "score":"",
     "genre":"کمدی",
     "year":"1405",
-    "summary": "این فیلم دربارهٔ مردی به نام نادر است که خیلی غیرمنتظره از استانبول به ایران برمیگردد و به خانه خواهرش می‌رود، اتفاقی که همه را درگیر سلسله‌ای بلند از حوادث می‌کند. نادر برای تغییر شرایط به زنی به نام مرضیه پیشنهاد می‌دهد تا در ازای پولی هنگفت رحمش را به خانواده‌ای ثروتمند اجاره دهد اما چیزی بر اساس برنامه‌ریزی پیش نمی‌رود.",
+    "summary": "",
     "poster":"https://ik.imagekit.io/phoenixMovie/Irani/kefaya_mozakerat.jpg?updatedAt=1785059218225"
   },
   {
@@ -12,7 +12,79 @@
     "score":"",
     "genre":"اجتماعی/درام",
     "year":"1405",
-    "summary": "روایتی از سقوط یک بمب عمل‌نکرده در نزدیکی بیمارستانی در یوسف‌آباد تهران و تخلیه محله.",
+    "summary": "",
     "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D9%86%DB%8C%D9%85%20%D8%B4%D8%A8.jpg"
+  },
+  {
+    "title":"زن و بچه",
+    "score":"",
+    "genre":"اجتماعی",
+    "year":"1404",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%B2%D9%86%20%D9%88%20%D8%A8%DA%86%D9%87.jpg"
+  },
+  {
+    "title":"جهیزیه",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1404",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%AC%D9%87%DB%8C%D8%B2%DB%8C%D9%87.jpg"
+  },
+  {
+    "title":"قسطنطنیه",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1403",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D9%82%D8%B3%D8%B7%D9%86%D8%B7%D9%86%DB%8C%D9%87.jpg"
+  },
+  {
+    "title":"گوزن های اتوبان",
+    "score":"",
+    "genre":"اجتماعی",
+    "year":"1403",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/IMG_20260416_130726_334.jpg"
+  },
+  {
+    "title":"دایناسور",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1403",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D8%B3%D9%88%D8%B1.webp"
+  },
+  {
+    "title":"مرد عینکی",
+    "score":"",
+    "genre":"کمدی/اکشن",
+    "year":"1402",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D9%85%D8%B1%D8%AF%20%D8%B9%DB%8C%D9%86%DA%A9%DB%8C.jpg"
+  },
+  {
+    "title":"زودپز",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1402",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%B2%D9%88%D8%AF%D9%BE%D8%B2.jpg"
+  },
+  {
+    "title":"آپاراتچی",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1402",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%A7%D9%BE%D8%A7%D8%B1%D8%A7%D8%AA%DA%86%DB%8C.jpg"
+  },
+  {
+    "title":"سال گربه",
+    "score":"",
+    "genre":"کمدی",
+    "year":"1402",
+    "summary": "",
+    "poster":"https://ik.imagekit.io/a93zalc82/Iranian/%D8%B3%D8%A7%D9%84%20%DA%AF%D8%B1%D8%A8%D9%87.jpg"
   }
 ]
