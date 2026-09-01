@@ -106,6 +106,7 @@ next.onclick=()=>{
         currentPage++;
 
         showPage();
+		scrollUp();
 
     }
 
@@ -118,6 +119,7 @@ prev.onclick=()=>{
         currentPage--;
 
         showPage();
+		scrollUp();
 
     }
 
