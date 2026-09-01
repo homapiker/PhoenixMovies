@@ -92,6 +92,13 @@ function showPage() {
 
 }
 
+function scrollUp() {
+	window.scrollTo({
+		top: 0,
+		behavior: "smooth"
+	});
+}
+
 next.onclick=()=>{
 
     if(currentPage<Math.ceil(movies.length/perPage)){
