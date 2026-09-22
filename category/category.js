@@ -28,6 +28,9 @@ if(cat=="foreignMovie")
 if(cat=="foreignSeries")
     title.innerText = "سریال خارجی";
 
+if(cat=="koreanseries")
+    title.innerText = "سریال کره ای";
+
 if(cat=="animation")
     title.innerText="انیمیشن";
 
