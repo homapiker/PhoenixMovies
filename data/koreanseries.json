@@ -1,5 +1,17 @@
 [
-{
-	"title":"hello",
-	"score":how are you",	
-]
+	{
+	  "title": "hello",
+	  "score": "10",
+	  "genre": "drama",
+	  "year": "1994",
+	  "summary": "sssssss",
+	  "poster": ""
+	},
+	{
+	  "title": "hello",
+	  "score": "10",
+	  "genre": "drama",
+	  "year": "1994",
+	  "summary": "sssssss",
+	  "poster": ""
+	},
