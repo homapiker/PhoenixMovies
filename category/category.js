@@ -34,6 +34,9 @@ if(cat=="koreanseries")
 if(cat=="animation")
     title.innerText="انیمیشن";
 
+if(cat=="anime")
+    title.innerText="انیمه";
+
 fetch(`../data/${cat}.json?v=${Date.now()}`, {
     cache: "no-store"
 })
